@@ -2,7 +2,7 @@
 A light weight table plugin that uses JQuery.
 
 
-# TODO:
+## TODO:
 * Choose items per page
 * Add styles
 * Add Ordering
